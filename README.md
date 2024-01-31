@@ -83,7 +83,7 @@ If you find RDPGL is useful for your research, please consider citing the follow
 ```
 @inproceedings{mafighting,
     title={Fighting against Organized Fraudsters Using Risk Diffusion-based Parallel Graph Neural Network},
-    author={Ma, Jiacheng and Li, Fan and Zhang, Rui and Xu, Zhikang and Cheng, Dawei and Ouyang, Yi and Zhao, Ruihui and Zheng, Jianguang and Zheng, Yefeng and Jiang, Changjun}
+    author={Ma, Jiacheng and Li, Fan and Zhang, Rui and Xu, Zhikang and Cheng, Dawei and Ouyang, Yi and Zhao, Ruihui and Zheng, Jianguang and Zheng, Yefeng and Jiang, Changjun},
     booktitle={International Joint Conference on Artificial Intelligence},
     year = {2023},
     month = {08},
